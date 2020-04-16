@@ -1,0 +1,5 @@
+{
+    "workbench.editor.closeOnFileDelete": true,
+    "workbench.editor.labelFormat": "short",
+    "editor.wordWrap": "on"
+}
